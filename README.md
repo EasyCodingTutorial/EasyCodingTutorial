@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @EasyCodingTutorial
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me    https://www.youtube.com/channel/UCHahklg_h-WQhiYRUT_P0hw
+- 👀 I’m a Full Stack Web Development
+- 🌱 I’m currently learning Machine Learning & AI
+- 📫 How to reach me https://www.youtube.com/channel/UCHahklg_h-WQhiYRUT_P0hw
+- 📫 Follow us On Instagram https://www.instagram.com/easy_coding__/?utm_medium=copy_link
+- 📫  Support us By Buy Me A Coffee https://www.buymeacoffee.com/EasyCodTut
+
 
 Skills : HTML,CSS BOOTSTRAP , PHP Python 
 
