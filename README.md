@@ -6,7 +6,7 @@
 - 📫  Support us By Buy Me A Coffee https://www.buymeacoffee.com/EasyCodTut
 
 
-Skills : HTML,CSS BOOTSTRAP , PHP Python 
+Skills : HTML,CSS , BOOTSTRAP ,REACT.JS, NEXT.JS, PHP , Python 
 
 <!---
 EasyCodingTutorial/EasyCodingTutorial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
