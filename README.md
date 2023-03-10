@@ -1,9 +1,3 @@
-
-<div align="center">
-  <img src="https://media.giphy.com/media/VCn72juuwg25JFfKt6/giphy.gif" alt="Hello" width="500" />
-</div>
-
-
 # Easy Coding Tutorial 👨‍💻👩‍💻
 
 Welcome to Easy Coding Tutorial, a channel dedicated to teaching web development programming in a simple and approachable way. This repository contains the code and resources used in our video tutorials.
