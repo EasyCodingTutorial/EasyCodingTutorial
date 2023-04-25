@@ -1,6 +1,16 @@
-# Easy Coding Tutorial 👨‍💻👩‍💻
-
-Welcome to Easy Coding Tutorial, a channel dedicated to teaching web development programming in a simple and approachable way. This repository contains the code and resources used in our video tutorials.
+<div align="center">
+  <h1>Easy Coding Tutorial</h1>
+  <p>👨‍💻👩‍💻 Web development made easy</p>
+  <a href="mailto:ecoding45@gmail.com"><img src="https://img.shields.io/badge/Email-ecoding45%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/LinkedIn-Aman%20Yadav-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.quora.com/profile/Easy-Coding-Tutorial"><img src="https://img.shields.io/badge/Quora-Easy%20Coding%20Tutorial-%23B92B27?style=for-the-badge&logo=quora&logoColor=white"></a>
+  <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://img.shields.io/badge/Instagram-%40easycodingtutorial-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://img.shields.io/badge/YouTube-Easy%20Coding%20Tutorial-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <br><br>
+  <p><b>Welcome to Easy Coding Tutorial, a channel dedicated to web development projects in a simple and approachable way. With over 400+ web development projects uploaded on our YouTube channel, we're excited to share our passion for coding with you! </b> <br><br> This repository contains the code and resources used in our video tutorials.</p>
+  <br>
+  <a href="https://www.buymeacoffee.com/EasyCodTut"><img src="https://img.shields.io/badge/Support%20us-Buy%20us%20a%20coffee!-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+</div>
 
 ---
 
@@ -24,17 +34,34 @@ We'll review your changes as soon as possible and let you know if we have any fe
 
 ---
 
-## Contact Us 📞
-
-If you have any questions or feedback about our tutorials, please feel free to contact us by email or on social media:
-
-- Email: [ecoding45@gmail.com]
-- YouTube: [Easy Coding Tutorial](https://www.youtube.com/c/easycodingtutorial)
-- Quora: [Easy Coding Tutorial Profile](https://www.quora.com/profile/Easy-Coding-Tutorial)
-- Instagram: [Easy Coding Tutorial](https://www.instagram.com/easy_coding__/?utm_medium=copy_link)
-
----
-
 ## License 📝
 
 All code in this repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for more details.
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👨‍💻-Web%20Developer-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🌐-HTML%20|%20CSS%20|%20JavaScript%20|%20React%20|%20Node.js-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🚀-Bootstrap%20|%20Materialize%20|%20Styled%20Components-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/💼-Freelancer%20|%20YouTuber%20|%20Blogger-lightgrey?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=easycodingtutorial&show_icons=true&count_private=true&theme=dark" alt="Easy Coding Tutorial's GitHub Stats">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.quora.com/profile/Easy-Coding-Tutorial"><img src="https://img.shields.io/badge/-Quora-red?style=for-the-badge&logo=Quora&logoColor=white"></a>
+  <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://www.buymeacoffee.com/EasyCodTut"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/linkedin.svg" height="32px" width="32px"></a>
+  <a href="https://www.quora.com/profile/Easy-Coding-Tutorial"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/quora.svg" height="32px" width="32px"></a>
+  <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/instagram.svg" height="32px" width="32px"></a>
+  <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/youtube.svg" height="32px" width="32px"></a>
+  <a href="https://www.buymeacoffee
+
