@@ -46,9 +46,7 @@ All code in this repository is licensed under the MIT license. See the [LICENSE]
   <img src="https://img.shields.io/badge/💼-Freelancer%20|%20YouTuber%20|%20Blogger-lightgrey?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easycodingtutorial&show_icons=true&count_private=true&theme=dark" alt="Easy Coding Tutorial's GitHub Stats">
-</p>
+ 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
