@@ -2,8 +2,7 @@
   <h1>Easy Coding Tutorial</h1>
   <p>👨‍💻👩‍💻 Web development made easy</p>
   <a href="mailto:ecoding45@gmail.com"><img src="https://img.shields.io/badge/Email-ecoding45%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/LinkedIn-Aman%20Yadav-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.quora.com/profile/Easy-Coding-Tutorial"><img src="https://img.shields.io/badge/Quora-Easy%20Coding%20Tutorial-%23B92B27?style=for-the-badge&logo=quora&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/LinkedIn-Aman%20Yadav-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://img.shields.io/badge/Instagram-%40easycodingtutorial-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://img.shields.io/badge/YouTube-Easy%20Coding%20Tutorial-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <br><br>
@@ -49,16 +48,14 @@ All code in this repository is licensed under the MIT license. See the [LICENSE]
  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.quora.com/profile/Easy-Coding-Tutorial"><img src="https://img.shields.io/badge/-Quora-red?style=for-the-badge&logo=Quora&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://www.buymeacoffee.com/EasyCodTut"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/linkedin.svg" height="32px" width="32px"></a>
-  <a href="https://www.quora.com/profile/Easy-Coding-Tutorial"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/quora.svg" height="32px" width="32px"></a>
+  <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/linkedin.svg" height="32px" width="32px"></a> 
   <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/instagram.svg" height="32px" width="32px"></a>
   <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://raw.githubusercontent.com/easycodingtutorial/easycodingtutorial/main/icons/youtube.svg" height="32px" width="32px"></a>
   <a href="https://www.buymeacoffee
