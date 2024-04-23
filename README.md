@@ -3,7 +3,6 @@
     <h1>🚀 Easy Coding Tutorial 🚀</h1>
     <p>👨‍💻👩‍💻 Making Web Development a Breeze</p>
     <a href="mailto:ecoding45@gmail.com"><img src="https://img.shields.io/badge/Email-ecoding45%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/amanyadaveasycodingtutorial/"><img src="https://img.shields.io/badge/LinkedIn-Aman%20Yadav-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href="https://www.instagram.com/easycodingtutorial/"><img src="https://img.shields.io/badge/Instagram-%40easycodingtutorial-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.youtube.com/c/EasyCodingTutorial"><img src="https://img.shields.io/badge/YouTube-Easy%20Coding%20Tutorial-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
     <br><br>
